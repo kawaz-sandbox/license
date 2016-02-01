@@ -1,1 +1,1 @@
-# license
+# kawaz's license template
